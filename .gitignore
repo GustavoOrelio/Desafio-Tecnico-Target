@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+*.tmp
+Exercicio2/dados/historico.json
+.DS_Store
+._*
